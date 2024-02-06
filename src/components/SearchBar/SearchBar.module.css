@@ -1,0 +1,23 @@
+.header {
+  padding: 15px 0;
+  background-color: red;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+.input {
+  padding: 10px 10px;
+  width: 400px;
+  border-radius: 5%;
+  outline: none;
+  font-size: 16px;
+}
+.btn {
+  margin-left: 10px;
+  border-radius: 5%;
+  cursor: pointer;
+  background-color: rgb(13, 13, 223);
+  color: white;
+}
